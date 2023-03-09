@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ParkingSystemConsoleApp1/1.0.0": {
+        "dependencies": {
+          "ParkingSystemClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ParkingSystemConsoleApp1.dll": {}
+        }
+      },
+      "ParkingSystemClassLibrary/1.0.0": {
+        "runtime": {
+          "ParkingSystemClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParkingSystemConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ParkingSystemClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
